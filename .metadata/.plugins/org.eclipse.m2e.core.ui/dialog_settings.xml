@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\apiprojetoindividual"/>
+			<item value="D:\Atividade Prática Módulo 5\Agencia Ethernum - Projeto - Back-End\apiprojetoindividual"/>
+			<item value="D:\Área de trabalho\01 - PROGRAMAÇÃO\01 - Recode Pro\03 - Atividade individual\Atividade Prática Módulo 5\apiprojetoindividual"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
